@@ -2,4 +2,19 @@ a) Actualizado
 b) Si
 c) git checkout main
 git merge alarcon
+D) Si, aunque la rama "Alarcon" no contiene el archivo beta.txt
+E) mayormente saber en que rama se esta posicionado antes del merge, ya que uno puede terminar pisando datos que no quiere
+F) git branch -r
+git pull 
+git checkout Calani 
+git branch 
+ls
+echo "Emmanuel alarcon" >> beta.txt 
+date +%T >> beta.txt 
+ifconfig >> beta.txt 
+git add .
+git commit -m "gamma punto 7"
+git push origin Calani 
+
+
  
