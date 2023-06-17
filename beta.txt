@@ -18,3 +18,23 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 21:34:52
+Emmanuel alarcon
+02:55:09
+eth0      Link encap:Ethernet  direcciónHW 08:00:27:c4:9c:80  
+          Direc. inet:10.0.2.15  Difus.:10.0.2.255  Másc:255.255.255.0
+          Dirección inet6: fe80::a00:27ff:fec4:9c80/64 Alcance:Enlace
+          ACTIVO DIFUSIÓN FUNCIONANDO MULTICAST  MTU:1500  Métrica:1
+          Paquetes RX:168 errores:0 perdidos:0 overruns:0 frame:0
+          Paquetes TX:260 errores:0 perdidos:0 overruns:0 carrier:0
+          colisiones:0 long.colaTX:1000 
+          Bytes RX:47748 (47.7 KB)  TX bytes:37223 (37.2 KB)
+
+lo        Link encap:Bucle local  
+          Direc. inet:127.0.0.1  Másc:255.0.0.0
+          Dirección inet6: ::1/128 Alcance:Anfitrión
+          ACTIVO BUCLE FUNCIONANDO  MTU:65536  Métrica:1
+          Paquetes RX:255 errores:0 perdidos:0 overruns:0 frame:0
+          Paquetes TX:255 errores:0 perdidos:0 overruns:0 carrier:0
+          colisiones:0 long.colaTX:0 
+          Bytes RX:22365 (22.3 KB)  TX bytes:22365 (22.3 KB)
+
