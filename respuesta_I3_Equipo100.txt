@@ -15,6 +15,16 @@ ifconfig >> beta.txt
 git add .
 git commit -m "gamma punto 7"
 git push origin Calani 
-
+G)
+git branch -r
+git pull 
+git checkout Calani 
+git branch 
+echo "maggi lucas" >> beta.txt 
+date +%T >> beta.txt 
+ifconfig >> beta.txt 
+git add .
+git commit -m "alfa punto 8"
+git push origin Calani 
 
  
